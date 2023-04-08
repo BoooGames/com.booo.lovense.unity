@@ -1,0 +1,17 @@
+{
+  "displayName": "Lovense Unity Native SDK",
+  "name": "com.booo.lovense.unity",
+  "version": "1.0.6",
+  "unity": "2019.2",
+  "description": "Custom version of the nunit package build to work with Unity. Used by the Unity Test Framework.",
+  "keywords": [
+    "nunit",
+    "unittest",
+    "test"
+  ],
+  "author": {
+    "name" : "Booo",
+    "email" : "booo.gamedev@gmail.com",
+    "url": "https://github.com/BoooGames"  
+  }
+}

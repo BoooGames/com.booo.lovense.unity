@@ -1,0 +1,32 @@
+namespace Boooo.Lovense.Model
+{
+    public enum LovenseCommand
+    {
+        COMMAND_GET_DEVICE_TYPE = 1,
+        COMMAND_GET_BATTERY = 2,
+        COMMAND_VIBRATE = 3,
+        COMMAND_ROTATE = 4,
+        COMMAND_ROTATE_CLOCKWISE = 5,
+        COMMAND_ROTATE_ANTI_CLOCKWISE = 6,
+        COMMAND_ROTATE_CHANGE = 7,
+        COMMAND_VIBRATE1 = 8,
+        COMMAND_VIBRATE2 = 9,
+        COMMAND_VIBRATE_FLASH = 10,
+        COMMAND_FLASH = 11,
+        COMMAND_LIGHT_OFF = 12,
+        COMMAND_LIGHT_ON = 13,
+        COMMAND_GET_LIGHT_STATUS = 14,
+        COMMAND_ALIGHT_OFF = 15,
+        COMMAND_ALIGHT_ON = 16,
+        COMMAND_GET_ALIGHT_STATUS = 17,
+        COMMAND_START_MOVE = 18,
+        COMMAND_STOP_MOVE = 19,
+        COMMAND_AIR_IN = 20,
+        COMMAND_AIR_OUT = 21,
+        COMMAND_AIR_AUTO = 22,
+        COMMAND_PRESET = 23,
+        COMMAND_FLEXER_VIBRATE = 24,
+        COMMAND_FLEXER_FINGER = 25,
+        COMMAND_THRUST = 26
+    }
+}
